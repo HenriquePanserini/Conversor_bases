@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636679631 source:c:\users\rick4\documents\curso - c\p1 - conversor de bases numericas\main.c
+	<stdio.h>
+	<stdlib.h>
+
